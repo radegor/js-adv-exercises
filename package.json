@@ -1,0 +1,18 @@
+{
+  "name": "js-adv-exercises",
+  "version": "1.0.0",
+  "description": "JavaScript exercises and algorithms",
+  "main": "index.js",
+  "repository": "https://github.com/radegor/js-adv-exercises.git",
+  "author": "Adrian Gomez <radegor@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
+    "@typescript-eslint/parser": "^5.31.0",
+    "eslint": "^8.20.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  }
+}
