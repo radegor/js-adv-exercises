@@ -9,7 +9,7 @@ function mergeTwoArrays(largeArray: number[], smallArray: number[]) {
 
   while (s >= 0) {
     insertFromSmall = l0 < 0 || smallArray[s]! > largeArray[l0]!;
-    largeArray[l1--] = insertFromSmall ? largeArray[l0--]! : smallArray[s--]!;
+    largeArray[l1--] = insertFromSmall ? smallArray[s--]! : largeArray[l0--]!;
   }
 }
 
