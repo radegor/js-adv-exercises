@@ -6,9 +6,9 @@ JavaScript Advanced exercises and algorithms
 
 ### Algorithms
 
-- Merge two sorted arrays where one has enough space at the end for the other.
-
-- Write a function that will reverse N sized blocks of an array.
+1. Merge two sorted arrays where one has enough space at the end for the other.
+2. Write a function that will reverse N sized blocks of an array.
+3. Given a random set of vowels and consonants, find the longest word that can be formed.
 
 ## Author
 
