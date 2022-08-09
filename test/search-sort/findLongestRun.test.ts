@@ -1,4 +1,4 @@
-import findLongestRun from "src/algorithms/findLongestRun";
+import findLongestRun from "src/search-sort/findLongestRun";
 
 describe("findLongestRun", () => {
   test("finds longest run of one distinct number", () => {

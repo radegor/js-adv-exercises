@@ -1,4 +1,4 @@
-import getLongestWord from "src/algorithms/getLongestWord";
+import getLongestWord from "src/search-sort/getLongestWord";
 
 describe("getword", () => {
   test("finds longest word for cat", () => {

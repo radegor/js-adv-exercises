@@ -1,4 +1,4 @@
-import mergeTwoArrays from "src/algorithms/mergeTwoArrays";
+import mergeTwoArrays from "src/arrays/mergeTwoArrays";
 
 describe("mergeTwoArrays", () => {
   test("merges arrays with the same number of elements", () => {

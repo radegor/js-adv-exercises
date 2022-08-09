@@ -1,4 +1,4 @@
-import reverseBlocks from "src/algorithms/reverseBlocks";
+import reverseBlocks from "src/arrays/reverseBlocks";
 
 describe("reverseBlocks", () => {
   test("reverses odd sized blocks", () => {
