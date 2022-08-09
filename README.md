@@ -1,6 +1,16 @@
 # js-adv-exercises
 
-JavaScript Advanced exercises and algorithms
+JavaScript Advanced exercises and algorithms.
+
+## Available Scripts
+
+#### `yarn test`
+
+Runs the unit tests with `ts-jest`. Can be provided with the usual `jest` options, e.g. `--coverage`, `--watch`, etc.
+
+#### `yarn build`
+
+Transpiles all TypeScript files using the setings from `tsconfig.json`. Output files can be found in the `dist/` folder. **Not needed for testing**.
 
 ## Content
 
