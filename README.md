@@ -19,6 +19,10 @@ Transpiles all TypeScript files using the setings from `tsconfig.json`. Output f
 1. Merge two sorted arrays where one has enough space at the end for the other.
 2. Write a function that will reverse N sized blocks of an array.
 
+### Strings
+
+1. Parse and sort a string by value.
+
 ### Search/Sort
 
 1. Given a random set of vowels and consonants, find the longest word that can be formed.
