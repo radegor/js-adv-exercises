@@ -22,6 +22,7 @@ Transpiles all TypeScript files using the setings from `tsconfig.json`. Output f
 ### Strings
 
 1. Parse and sort a string by value.
+2. Find the Levenshtein distance between two strings.
 
 ### Search/Sort
 
