@@ -25,6 +25,7 @@ Transpiles all TypeScript files using the setings from `tsconfig.json`. Output f
 2. Find the Levenshtein distance between two strings.
 3. Find anagrams.
 4. Determine if a string is a rotation of another.
+5. Reversing the odd words of a string.
 
 ### Search/Sort
 
